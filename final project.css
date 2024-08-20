@@ -1,0 +1,48 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(1233.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    border-radius: 50%;
+    margin-left: 50px;
+
+}
+.img2{
+    margin-top: 80px;
+    height: 135px;
+    width: 120px;
+    
+}
+input{
+    border-radius: 20px;
+}
+    
+
+.section1{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(255, 255, 255, 0.411);
+    opacity: 0.7;
+    border-radius: 20px;
+    text-align:center;
+    
+
+}
+.container{
+    width: 50%;
+    margin-left: 500px;
+    margin-bottom: 60px;
+}
+#header{
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
